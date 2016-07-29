@@ -1,0 +1,8 @@
+{
+    "EntryId": "string",
+    "Author": "string",
+    "Title": "string",
+    "Text": "string",
+    "DateCreated": "int",
+    "DateModified": "int"
+}
